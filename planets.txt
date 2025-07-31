@@ -1,0 +1,10 @@
+Planet Name: Earth
+Description: Andromeda, blue, solid, green
+Population: 1000000
+Defense Level: 2
+------------------------
+Planet Name: Proxima Centauri b
+Description: Desert planet showing signs of ancient civilization
+Population: 132431
+Defense Level: 6.1
+------------------------
